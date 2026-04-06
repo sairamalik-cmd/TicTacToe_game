@@ -11,3 +11,6 @@ This is a console-based Tic Tac Toe game implemented in Java. It allows two play
 
 ## Technologies Used
 - Java for game logic and console interaction.
+
+## Author
+   Saira Ahmed
